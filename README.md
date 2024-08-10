@@ -1,6 +1,6 @@
 # Fiachra Healy
 
-Software Engineer at Ericsson working as part of a Cloud RAN team that maintains a number of security-related microservices. 
+Full Stack Software Engineer at Daedalus, based in Karlsruhe, Germany.
 
 Graduated from The University of Galway (Formerly The National University of Ireland Galway) in 2022 with a First Class Honours in Computer Science and Information Technology (BSc).
 
