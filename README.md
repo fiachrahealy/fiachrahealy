@@ -6,11 +6,11 @@ Graduated from The University of Galway (Formerly The National University of Ire
 
 ## Tools and Technologies
 
-- **Languages:** Java, Go, JavaScript, Swift, Typescript, C, C#, Python, SQL, YAML, XML, HTML & CSS. 
-- **Frameworks:** Angular, React, Node & Express.
+- **Languages:** Java, Go, JavaScript, Swift, Typescript, C, C#, Python, Kotlin, SQL, YAML, XML, HTML & CSS. 
+- **Frameworks:** Angular, React, Django, Node & Express.
 - **Containerisation:** Docker & Kubernetes.
 - **Databases:** Cloud Firestore, PostgreSQL, MySQL & MongoDB.
-- **Task Management:** Trello & JIRA.
+- **Task Management:** Trello, Notion, Figma, Miro & JIRA. 
 - **API Testing:** Postman.
 - **Version Control:** Git, GitHub, Gerrit, GitLab & Bitbucket.
 - **IDEs:** VSCode, InteliJ, PyCharm, CLion, GoLand, Netbeans, Android Studio, Xcode, Eclipse & Unity. 
